@@ -5,9 +5,9 @@ import pandas as pd
 # database connection
 def connection():
     return psycopg2.connect(
-        dbname="automark_india",
+        dbname="",
         user="postgres",
-        password="Jai2525",
+        password="",
         host="localhost",
         port="5432"
     )
