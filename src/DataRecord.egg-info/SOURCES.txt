@@ -1,0 +1,8 @@
+pyproject.toml
+src/data.py
+src/DataRecord/__init__.py
+src/DataRecord/records.py
+src/DataRecord.egg-info/PKG-INFO
+src/DataRecord.egg-info/SOURCES.txt
+src/DataRecord.egg-info/dependency_links.txt
+src/DataRecord.egg-info/top_level.txt
